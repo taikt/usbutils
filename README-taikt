@@ -1,0 +1,8 @@
+1. Installation
+./autogen.sh
+make all
+
+Prerequire:
+checkout libusb and install it in git@github.com:taikt/libusb.git
+
+(cd /libusb .. make make install, refer README-taikt)
